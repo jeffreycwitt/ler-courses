@@ -3284,7 +3284,8 @@
     "title": "Applied Music: Voice",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"
     ],
     "note": "",
     "startAy": 23,
@@ -3653,7 +3654,8 @@
     "title": "Appl Mus: Voice (3/4 Hour)",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"
     ],
     "note": "",
     "startAy": 26
@@ -3719,7 +3721,8 @@
     "title": "Applied Music (3/4 Hour) Voice",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"
     ],
     "note": "",
     "startAy": 26
@@ -3798,7 +3801,8 @@
     "title": "Appl Mus 3/4: Voice",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"
     ],
     "note": "",
     "startAy": 25,
@@ -3882,7 +3886,8 @@
     "title": "Applied Music: Voice",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"
     ],
     "note": "",
     "startAy": 23,
@@ -4180,7 +4185,8 @@
     "title": "Applied Music: Voice",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "lesson-voice"            
     ],
     "note": "",
     "startAy": 16
