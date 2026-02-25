@@ -2156,7 +2156,8 @@
     "title": "Biological Forensic Laboratory",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 24
@@ -2199,7 +2200,8 @@
     "title": "Plant Physiology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 8
@@ -2210,7 +2212,8 @@
     "title": "Experimental Plnt Physiol Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 7,
@@ -2274,7 +2277,8 @@
     "title": "Animal Behavior Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 6
@@ -2316,7 +2320,8 @@
     "title": "Conservation Bio Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 11
@@ -3732,7 +3737,8 @@
     "title": "Endocrinology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 6
@@ -3763,7 +3769,7 @@
     "uniqueId": "",
     "title": "Laboratory Exp in Neurobiology",
     "tags": [
-      "other"
+      "other",
     ],
     "note": "",
     "startAy": 17
@@ -3774,7 +3780,8 @@
     "title": "Neurobiology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude", 
+      "Lab"
     ],
     "note": "",
     "startAy": 6,
@@ -3796,7 +3803,8 @@
     "title": "Endocrinology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude", 
+      "Lab"
     ],
     "note": "",
     "startAy": 12
@@ -3848,7 +3856,8 @@
     "title": "Developmental Biology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 6
@@ -3924,7 +3933,8 @@
     "title": "Cancer Biology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 9
@@ -3945,7 +3955,8 @@
     "title": "Cell Biology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 13
@@ -3997,7 +4008,8 @@
     "title": "Biochemistry Lab I",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 7
@@ -4008,7 +4020,8 @@
     "title": "Pvt Sty: Biochemistry Lab I",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 21,
@@ -4020,7 +4033,8 @@
     "title": "Biochemistry Lab II",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 7
@@ -4339,7 +4353,8 @@
     "title": "General&Human Physiology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 6
@@ -4372,7 +4387,8 @@
     "title": "Animal Behavior Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 12
@@ -4383,7 +4399,8 @@
     "title": "Prv Sty:Animal Behavior Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 19,
@@ -4416,7 +4433,8 @@
     "title": "Immunology Lab",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
