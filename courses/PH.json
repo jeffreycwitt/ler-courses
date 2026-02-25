@@ -69,7 +69,7 @@
   {
     "courseNumber": "PH*102",
     "uniqueId": "",
-    "title": "Introductory Physics II w/Lab",
+    "title": "Introductory Physics II w/",
     "tags": [
       "1stLevel"
     ],
@@ -79,7 +79,7 @@
   {
     "courseNumber": "PH*102",
     "uniqueId": "",
-    "title": "Prv Sty:Intro Phys II w/Lab",
+    "title": "Prv Sty:Intro Phys II w/",
     "tags": [
       "1stLevel",
       "exclude"
@@ -255,7 +255,7 @@
   {
     "courseNumber": "PH*191",
     "uniqueId": "",
-    "title": "Introductory Physics Lab I",
+    "title": "Introductory Physics  I",
     "tags": [
       "1stLevel",
       "exclude"
@@ -270,7 +270,8 @@
     "title": "Intro Physics Lab II",
     "tags": [
       "1stLevel",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
@@ -333,7 +334,8 @@
     "title": "General Physics Lab I",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
@@ -344,7 +346,8 @@
     "title": "General Physics Lab II",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
@@ -355,7 +358,8 @@
     "title": "Intermediate Laboratory I",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
@@ -366,7 +370,8 @@
     "title": "Intermediate Laboratory II",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 5
@@ -781,7 +786,8 @@
     "title": "Advanced Laboratory",
     "tags": [
       "other",
-      "exclude"
+      "exclude",
+      "Lab"
     ],
     "note": "",
     "startAy": 7
@@ -791,7 +797,8 @@
     "uniqueId": "",
     "title": "Advanced Laboratory I",
     "tags": [
-      "other"
+      "other",
+      "Lab"
     ],
     "note": "",
     "startAy": 6,
