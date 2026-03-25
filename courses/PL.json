@@ -653,6 +653,16 @@
     "startAy": 20
   },
   {
+    "courseNumber": "PL*305",
+    "uniqueId": "",
+    "title": "Ethics Humanitarian Interventi",
+    "tags": [
+      "Ethics"
+    ],
+    "note": "only title in sections list changed; same course",
+    "startAy": 27
+  },
+  {
     "courseNumber": "PL*305D",
     "uniqueId": "",
     "title": "Eth&Pol Humanitarian Interven",
@@ -662,6 +672,7 @@
     "note": "",
     "startAy": 20
   },
+
   {
     "courseNumber": "PL*306",
     "uniqueId": "",
